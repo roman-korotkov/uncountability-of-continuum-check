@@ -7,7 +7,7 @@
 
 This is the opening article in the series Uncountability of the Continuum. Its character is deliberately investigational: rather than offering a finished, self-contained solution, it traces a path of inquiry and invites the reader to follow the same line of thought.
 
-What first drew me to the subject was a simple but persistent question: why has Cantor’s theorem on the uncountability of the continuum attracted so many attempts at refutation? The usual reply—“only cranks question it”—strikes me as unhelpfully dismissive and, in a certain sense, chauvinistic. No comparable resistance is directed at the Pythagorean theorem or the fundamental theorem of arithmetic. The sheer volume and longevity of the dissent therefore call for a more careful explanation.
+What first drew me to the subject was a simple but persistent question: why has Cantor’s theorem on the uncountability of the continuum attracted so many attempts at refutation? The usual reply - "only cranks question it" - strikes me as unhelpfully dismissive and, in a certain sense, chauvinistic. No comparable resistance is directed at the Pythagorean theorem or the fundamental theorem of arithmetic. The sheer volume and longevity of the dissent therefore call for a more careful explanation.
 
 When one returns to Cantor’s original writings, a striking fact emerges. His arguments rest on a number of additional, often tacit, prerequisites that have largely disappeared from the modern textbook presentations. These conditions are not accidental ornaments; they point toward a coherent alternative perspective on the foundational assumptions that underlie contemporary axiomatic set theory. Exploring that perspective is the central task of the series.
 
