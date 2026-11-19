@@ -45,7 +45,7 @@ pdflatex article_ru.tex
 
 ## How to Cite
 
-If you reference this work, please cite it via Zenodo or use the following BibTeX entry (update the DOI after publishing your first GitHub release):
+If you reference this work, please cite it via Zenodo or use the following BibTeX entry:
 
 ```bibtex
 @misc{korotkov2026continuum,
