@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use or reference this paper, please cite it using the metadata from this file."
+title: "Uncountability of continuum, check"
+type: software
+authors:
+  - family-names: "Korotkov"
+    given-names: "Roman"
+    orcid: "https://orcid.org/0009-0003-3813-3116"
+abstract: >-
+  The paper critically re-examines the classical proof of the uncountability of the continuum via Cantor’s diagonal argument. Returning to naive mathematics, the author distinguishes potential and actual infinity and introduces two constructive sets on the unit interval: the potentially infinite C[0, 1] (the union of all finite binary expansions) and the actually infinite U[0, 1] (the set in which every digit position is defined). It is shown that, under potential infinity, the diagonal construction either never terminates or yields only a countable collection of limits, and therefore cannot establish the existence of a real outside the original set. Under actual infinity the applicability of the diagonal method hinges on further assumptions about the morphology of infinity - its universality, totality, and degree of reflexivity. A distinction is drawn between strong and weak interpretations of one-to-one correspondence. Analysis of Cantor’s original 1891 formulation reveals that the argument relies on the fixation of a universal, totally ordered coordinate system and is not generally valid outside these presuppositions. The author concludes that the diagonal argument by itself supplies no structural information about the relation between ℕ and ℝ; its correctness is determined by the adopted morphology of infinity.
+keywords:
+  - "Cantor’s diagonal argument"
+  - "uncountability of the reals"
+  - "potential and actual infinity"
+  - "one-to-one correspondence"
+  - "strong and weak interpretations of one-to-one correspondence"
+  - "morphology of infinity"
+  - "naive set theory"
+  - "binary expansions"
+  - "equivalence classes"
+license: CC-BY-4.0
+version: "0.9.0"
+date-released: "2026-11-19"
+repository-code: "https://github.com/roman-korotkov/uncountability-of-continuum-check"
+languages:
+  - ru
+preferred-citation:
+  type: article
+  title: "Несчётность множества континуум, шах"
+  orcid: "https://orcid.org/0009-0003-3813-3116"
+  authors:
+    - family-names: "Korotkov"
+      given-names: "Roman"
+  version: "0.9.0"
+  date-released: "2026-11-19"
+  year: 2026
+  languages:
+  - ru
+  notes: "Preprint"
